@@ -1,2 +1,3 @@
 name = input("What is your name: ")
-print(name + " will be 100 years old in the year 2080")
+age = int(input("How old are you: "))
+print(name + " will be " + str(age) + " years old in the year 2080")
